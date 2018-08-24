@@ -14,7 +14,7 @@ namespace GCCafe.Data
 
         public GCCafeContext() : base("GCCafe")
         {
-            Database.SetInitializer(new GCCafeInitializer);
+            Database.SetInitializer(new GCCafeInitializer());
         }
 
         public DbSet<User> Users { get; set; }

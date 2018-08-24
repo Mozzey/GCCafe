@@ -1,0 +1,6 @@
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Domain\bin\Debug\GCCafe.Domain.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Domain\bin\Debug\GCCafe.Domain.pdb
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Domain\obj\Debug\GCCafe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Domain\obj\Debug\GCCafe.Domain.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Domain\obj\Debug\GCCafe.Domain.pdb
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Domain\obj\Debug\GCCafe.Domain.csprojAssemblyReference.cache

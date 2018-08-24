@@ -1,0 +1,14 @@
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\obj\Debug\GCCafe.Data.csprojAssemblyReference.cache
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\obj\Debug\GCCafe.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\GCCafe.Data.dll.config
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\GCCafe.Data.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\GCCafe.Data.pdb
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\EntityFramework.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\GCCafe.Domain.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\GCCafe.Domain.pdb
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\EntityFramework.xml
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\obj\Debug\GCCafe.Data.csproj.CopyComplete
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\obj\Debug\GCCafe.Data.dll
+C:\Users\Mozzey\GrandCircus\Labs\GCCafe\GCCafe\GCCafe.Data\obj\Debug\GCCafe.Data.pdb
