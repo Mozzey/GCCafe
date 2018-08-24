@@ -18,17 +18,17 @@
             </div>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav navbar-right">
-                    <li>@Html.ActionLink("Home", "Index", "Home", new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("About", "About", "Home", new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home", new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Items", "Index", "Items", new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Users", "Index", "Users", new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("About", "About", "Home", null, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Items", "Index", "Items", null, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Users", "Index", "Users", null, new { @class = "nav-link" })</li>
                 </ul>
             </div>
         </div>
     </div>
     
-    <div class="container body-content">
+    <div class="container-fluid px-0">
         @RenderBody()
         <hr />
         <footer>

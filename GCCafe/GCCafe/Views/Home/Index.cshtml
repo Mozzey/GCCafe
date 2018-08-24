@@ -3,15 +3,15 @@
 }
 
 <div class="header">
-    <div class="container">
+    <div class="container-fluid mx-0 px-0">
         <div class="row title justify-content-center">
             <h1 class="welcome moveInTop">Welcome to <span id="coffeeShop">GC</span> Coffee Shop<span id="coffeeShop">!</span></h1>
             <br />
-            <h3>@Html.ActionLink("Sign Up", "Registration", "Home", new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
-            <h3>@Html.ActionLink("Create User", "Create", "Users", new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
-            <h3>@Html.ActionLink("Users", "Index", "Users", new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
-            <h3>@Html.ActionLink("Items", "Index", "Items", new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
-            <h3>@Html.ActionLink("Products", "Products", "Home", new { @class = "btn btn-light registerButton moveInBottom" })</h3>
+            <h3>@Html.ActionLink("Sign Up", "Create", "Users", null, new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
+            <h3>@Html.ActionLink("Create User", "Create", "Users", null, new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
+            <h3>@Html.ActionLink("Users", "Index", "Users", null, new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
+            <h3>@Html.ActionLink("Items", "Index", "Items", null, new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
+            <h3>@Html.ActionLink("ItemsAdmin", "Create", "ItemsAdmin", null, new { @class = "btn btn-light registerButton moveInBottom mx-3" })</h3>
         </div>
     </div>
 </div>
