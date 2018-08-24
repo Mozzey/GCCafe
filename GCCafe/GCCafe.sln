@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCCafe", "GCCafe\GCCafe.csproj", "{3CFBA8AF-B813-4546-9C83-B163D04F7756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCCafe.Data", "GCCafe.Data\GCCafe.Data.csproj", "{5830AB86-14F8-4C68-80F4-61ED272C0BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCCafe.Domain", "GCCafe.Domain\GCCafe.Domain.csproj", "{7A70B5ED-9159-4454-A941-1066ED157CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFBA8AF-B813-4546-9C83-B163D04F7756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFBA8AF-B813-4546-9C83-B163D04F7756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFBA8AF-B813-4546-9C83-B163D04F7756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFBA8AF-B813-4546-9C83-B163D04F7756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5830AB86-14F8-4C68-80F4-61ED272C0BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5830AB86-14F8-4C68-80F4-61ED272C0BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5830AB86-14F8-4C68-80F4-61ED272C0BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5830AB86-14F8-4C68-80F4-61ED272C0BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A70B5ED-9159-4454-A941-1066ED157CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A70B5ED-9159-4454-A941-1066ED157CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A70B5ED-9159-4454-A941-1066ED157CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A70B5ED-9159-4454-A941-1066ED157CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3674A3-BBA2-4013-A6CA-55E29EA2866E}
+	EndGlobalSection
+EndGlobal
